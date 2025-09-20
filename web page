@@ -10,10 +10,10 @@
       padding: 50px;
     }
     h1 {
-      color: #ff4500;
+      color: red;
     }
     p {
-      color: #2e8b57;
+      color: green;
       font-size: 18px;
     }
   </style>
